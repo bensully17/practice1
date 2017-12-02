@@ -1,0 +1,25 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+   display: flex;
+  
+}
+
+h1 {
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 97)
+}
+
+p {
+    background-color: rgb(65,105,225);
+    color: rgb(255, 255, 97)
+}
+
+.hero-images {
+    order: 3
+}
+
+
+
+
